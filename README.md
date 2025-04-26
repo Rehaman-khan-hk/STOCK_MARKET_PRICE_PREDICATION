@@ -6,14 +6,7 @@ To analyze historical stock market data and predict possible crash scenarios usi
 
 To build a predictive model that assists investors and analysts in identifying early warning signs of market crashes.
 
-📂 Project Structure
-bash
-Copy
-Edit
-.
-├── STOCK_MARKET_CRASH_PREDICTION.ipynb  # Main Jupyter notebook
-├── README.md                            # Project documentation
-└── data/                                # (Optional) Directory for CSV datasets
+
 🛠️ Technologies Used
 Python 3.x
 
